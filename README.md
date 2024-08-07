@@ -16,7 +16,7 @@ To get started with the Free MacBook Applications Download Site, simply clone th
 
 bash
 Copy code
-git clone https://github.com/yourusername/free-macbook-apps.git
+git clone https://github.com/mroshb/macpac.git
 cd free-macbook-apps
 Contribution
 
@@ -28,6 +28,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Contact
 
-For any inquiries or support, please contact us at support@example.com.
+For any inquiries or support, please contact us at support@mroshb.com.
 
 
